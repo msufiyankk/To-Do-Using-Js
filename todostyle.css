@@ -54,6 +54,7 @@ button:active {
 	color: rgb(52, 7, 7);
 	font-weight: 400;
 	font-style: normal;
+	cursor: default;
 }
 ul {
 	background-color: antiquewhite;
